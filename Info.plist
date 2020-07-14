@@ -15,7 +15,7 @@
 					<string>software-package</string>
 					<!-- required.the URL of the file to download.-->
 					<key>url</key>
-					<string>http://172.19.34.85:8090/ipa/993_NextEduDevelopment.ipa</string>
+					<string>http://172.19.34.85:8090/ipa/1106_NextEduDevelopment.ipa</string>
 				</dict>
 				<!-- display-image: the icon to display during download .-->
                			<dict>

@@ -15,7 +15,7 @@
 					<string>software-package</string>
 					<!-- required.the URL of the file to download.-->
 					<key>url</key>
-					<string>http://172.19.34.85:9085/ipa/1388_NextEduTest.ipa</string>
+					<string>http://172.19.34.85:9085/ipa/1809_tomabcdev.ipa</string>
 				</dict>
 				<!-- display-image: the icon to display during download .-->
                			<dict>

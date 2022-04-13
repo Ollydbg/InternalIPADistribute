@@ -41,10 +41,10 @@
 				<string>software</string>
 				<!-- optional. displayed during download; typically company name -->
 				<key>subtitle</key>
-               			<string>NextEdu Network Technology Co., Ltd.</string>
+               			<string>Spark EDU Technology Co., Ltd.</string>
 				<!-- required.the title to display during the download.-->
 				<key>title</key>
-				<string>NextEdu</string>
+				<string>火花字酷</string>
 			</dict>
 		</dict>
 	</array>

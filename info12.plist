@@ -15,7 +15,7 @@
 					<string>software-package</string>
 					<!-- required.the URL of the file to download.-->
 					<key>url</key>
-					<string>http://172.16.116.83:8080/job/Release/job/BuildClientOnline/job/BuildClient_iOSNew/82/artifact/build/export/SparkLiteracy.ipa</string>
+					<string>http://172.16.116.83:8080/job/BuildClientsim/job/BuildClient_iOSNew/lastSuccessfulBuild/artifact/build/export/SparkLiteracy.ipa</string>
 				</dict>
 				<!-- display-image: the icon to display during download .-->
                			<dict>
